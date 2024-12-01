@@ -1,0 +1,17 @@
+/Users/tannerpearson/SourceCode/Advent-of-Code-2024/day-1/bin/Debug/net9.0/day-1
+/Users/tannerpearson/SourceCode/Advent-of-Code-2024/day-1/bin/Debug/net9.0/day-1.deps.json
+/Users/tannerpearson/SourceCode/Advent-of-Code-2024/day-1/bin/Debug/net9.0/day-1.runtimeconfig.json
+/Users/tannerpearson/SourceCode/Advent-of-Code-2024/day-1/bin/Debug/net9.0/day-1.dll
+/Users/tannerpearson/SourceCode/Advent-of-Code-2024/day-1/bin/Debug/net9.0/day-1.pdb
+/Users/tannerpearson/SourceCode/Advent-of-Code-2024/day-1/obj/Debug/net9.0/day-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tannerpearson/SourceCode/Advent-of-Code-2024/day-1/obj/Debug/net9.0/day-1.AssemblyInfoInputs.cache
+/Users/tannerpearson/SourceCode/Advent-of-Code-2024/day-1/obj/Debug/net9.0/day-1.AssemblyInfo.cs
+/Users/tannerpearson/SourceCode/Advent-of-Code-2024/day-1/obj/Debug/net9.0/day-1.csproj.CoreCompileInputs.cache
+/Users/tannerpearson/SourceCode/Advent-of-Code-2024/day-1/obj/Debug/net9.0/day-1.sourcelink.json
+/Users/tannerpearson/SourceCode/Advent-of-Code-2024/day-1/obj/Debug/net9.0/day-1.dll
+/Users/tannerpearson/SourceCode/Advent-of-Code-2024/day-1/obj/Debug/net9.0/refint/day-1.dll
+/Users/tannerpearson/SourceCode/Advent-of-Code-2024/day-1/obj/Debug/net9.0/day-1.pdb
+/Users/tannerpearson/SourceCode/Advent-of-Code-2024/day-1/obj/Debug/net9.0/day-1.genruntimeconfig.cache
+/Users/tannerpearson/SourceCode/Advent-of-Code-2024/day-1/obj/Debug/net9.0/ref/day-1.dll
+/Users/tannerpearson/SourceCode/Advent-of-Code-2024/day-1/bin/Debug/net9.0/input.txt
+/Users/tannerpearson/SourceCode/Advent-of-Code-2024/day-1/bin/Debug/net9.0/sample.txt
